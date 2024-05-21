@@ -23,6 +23,7 @@ public class dropdown {
 	 System.out.println(el.getSize());
 	 Select dropdown =new  Select(el);
 	 dropdown.selectByVisibleText("Aruba");
+	 dropdown.selectByIndex(3);
 	 dropdown.selectByValue("Benin");
 	
 	
