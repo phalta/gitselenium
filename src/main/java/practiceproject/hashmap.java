@@ -13,6 +13,7 @@ public class hashmap {
 		people.put("nikhil", 32);
 		people.put("prithvi", 2);
 		people.put("baba", 63);
+		people.put("xxx", 100);
 		System.out.println(people);
 		people.size();
 		for(String i:people.keySet())
