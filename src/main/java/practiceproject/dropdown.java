@@ -24,6 +24,7 @@ public class dropdown {
 	 Select dropdown =new  Select(el);
 	 dropdown.selectByVisibleText("Aruba");
 	 dropdown.selectByIndex(3);
+	 dropdown.selectByIndex(5);
 	 dropdown.selectByValue("Benin");
 	
 	

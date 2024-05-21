@@ -14,6 +14,7 @@ public class hashmap {
 		people.put("prithvi", 2);
 		people.put("baba", 63);
 		people.put("xxx", 100);
+		people.put("hiii", 200);
 		System.out.println(people);
 		people.size();
 		for(String i:people.keySet())
